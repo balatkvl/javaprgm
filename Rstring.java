@@ -1,4 +1,6 @@
-/*First I am declaring a string
+
+/*"REVERSING THE STRING"
+//First I am declaring a string
 //I use lenght() function to get length of string
 //The I use for loop for reversing string
 //The special function charAt() for working with each character in a string
